@@ -1,0 +1,11 @@
+
+.idea/ 
+__pycache__/
+*.py[cod]
+*$py.class
+cygenhms/settings.py
+/test_environment/
+/dev_environment/
+/db.sqlite3
+pylint_results.txt
+/env/
